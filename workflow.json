@@ -1,0 +1,17 @@
+{
+  "workflow_name": "Ujima AI Pride Workflow",
+  "agents": [
+    {
+      "name": "Scout Agent",
+      "trigger": "Financial stress detected"
+    },
+    {
+      "name": "Guardian Agent",
+      "trigger": "Loan application received"
+    },
+    {
+      "name": "Hunter Agent",
+      "trigger": "Escalation required"
+    }
+  ]
+}

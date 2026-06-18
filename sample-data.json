@@ -1,0 +1,9 @@
+{
+  "farmer_name": "Grace Atwine",
+  "location": "Mbarara",
+  "crop": "Maize",
+  "loan_request": 28000,
+  "children": 3,
+  "harvest_period": "October-November",
+  "financial_stress_signal": true
+}
