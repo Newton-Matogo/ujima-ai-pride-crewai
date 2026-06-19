@@ -1,9 +1,18 @@
-# Screenshots
+# Workflow Screenshot
 
-Future screenshots of the n8n workflow will be stored here.
+The image below demonstrates the Ujima AI Pride workflow.
 
-Workflow:
+Scout Agent
+↓
 
-Scout Agent → Guardian Agent → Hunter Agent
+Guardian Agent
+↓
 
-Human approval required before final loan decision.
+Hunter Agent
+↓
+
+Human Review
+
+Image location:
+
+screenshots/workflow.png
